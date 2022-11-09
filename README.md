@@ -1,1 +1,2 @@
-# Problem-plecakowy-i-kontenerowy-z-u-yciem-AG-Praca-dyplomowa-
+# Praca dyplomowa
+W repozytorium znajduje się rozwiązanie problemu plecakowego i kontenerowego z użyciem algorytmu genetycznego.
